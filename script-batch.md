@@ -1,4 +1,16 @@
-# Batch
+# File Batch
+I file batch sono script che possono essere eseguiti da cmd.exe che ne è interprete e ambiente di runtime.
+
+## Finestra cmd
+
+```color 0F``` colore fore, colore back
+
+```mode 84,42 ``` Qtà di colonne e righe con cui si apre la finestra della shell
+
+```title titolo_della_finestra```
+
+## Commenti
+```rem ```
 
 ## Istruzione echo
 
@@ -28,23 +40,17 @@ Usare una variabile
 
 ```cls```
 
-```color 0F``` colore fore, colore back
-
 ```explorer URL```
 
 ```goto nome_etichetta ```
 
 ```if exist "percorso_file" (fai qualcosa) else (fai altro) ```
 
-```mode 84,42 ``` Qtà di colonne e righe con cui si apre la finestra della shell
-
 ```pause```
 
 ```pause >nul```
 
 ```start "nome_eseguibile"```
-
-```title titolo_della_finestra```
 
 ```type nomefile```
 
