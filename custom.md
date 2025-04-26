@@ -28,3 +28,11 @@ Riavviare explorer da terminale:
 ```/f``` --> forzato
 
 - ```explorer.exe```
+
+## Layout di tastiera personalizzata
+
+Installa ```.NET Framework 3.5``` (che include anche .NET 2.0 e 3.0) da ```Pannello di controllo > Programmi > Programmi e funzionalità > Attivazione o disattivazione delle funzionalità Windows```
+
+Installa ```Microsoft Keyboard Layout Creator``` (MSKLC)[https://www.microsoft.com/en-us/download/details.aspx?id=102134]
+
+Crea il tuo layout, crea il pacchetto, installalo
